@@ -1,0 +1,51 @@
+
+.photo_align {
+height: 210px;
+
+}
+
+.rightalign {
+
+      float: right;
+      border: 5px solid #555;
+  }
+
+ h1 {
+      border-style: inset;
+ }
+
+p {
+    text-align: left;
+    justify: left;
+    width: 100%;
+
+
+
+}
+
+.align {
+    text-align: center;
+
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+
+}
+
+body{
+    box-shadow: 10px 10px 5px 12px lightgray;
+    max-width: 700px;
+    margin: auto;
+    padding: 20px;
+    font-family: Tahoma, Verdana, sans-serif;
+
+}
+
+h3 {
+
+box-shadow: 10px 10px;
+
+
+}
